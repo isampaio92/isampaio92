@@ -1,5 +1,5 @@
 # Igor Sampaio
-Sou estudante de Sistemas de Informação na Veiga de Almeida, atualmente no segundo período.
+Sou estudante de Sistemas de Informação na Universidade Veiga de Almeida, atualmente no segundo período.
 
 ### Tecnologias dominadas
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
